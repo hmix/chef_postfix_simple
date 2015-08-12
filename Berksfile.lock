@@ -1,0 +1,7 @@
+DEPENDENCIES
+  postfix-customized
+    path: .
+    metadata: true
+
+GRAPH
+  postfix-customized (0.2.8)
